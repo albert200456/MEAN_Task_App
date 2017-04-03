@@ -1,2 +1,2 @@
 # Task Application
-Simple task and comment web application based on MongoDB, ExpressJS, Angular2, NodeJS.
+Simple task and comment web application utilized MEAN stack (MongoDB, ExpressJS, Angular2, NodeJS).
