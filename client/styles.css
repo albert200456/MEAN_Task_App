@@ -1,9 +1,8 @@
 body {
   height: 100%;
-  background-color: #333;
 }
 body {
-  color: #fff;
+  color: #333;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
@@ -33,3 +32,20 @@ body {
   background-color: #fff;
   border: 1px solid #fff;
 }
+
+.icon {
+    color: #fff;
+    font-size: 8rem;
+}
+
+
+/* Animation */
+svg * {
+				fill: none;
+				stroke: currentColor;
+			}
+.bloc-head     { color: #333; padding: 30px; }
+#hi-there {
+				width: 100%;
+				stroke-width: 5;
+			}
